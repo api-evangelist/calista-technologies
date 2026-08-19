@@ -39,7 +39,7 @@ x-investors:
 x-website-status: parked-for-sale
 x-enrichment-note: Defunct company (acquired by Microsoft 2008); no live API/developer surface exists to
   enrich. Identity fields only.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
